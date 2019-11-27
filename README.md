@@ -10,6 +10,5 @@ A proactive measure using Deep Learning and AI algorithm to empower police offic
 Our Target main users are:
 <br>
 1. Crime Type prediction for police officers.
-<br>
 2. Crime Safe walkable path (GPS) for city pedestrians.
 
