@@ -1,6 +1,6 @@
 ---
 title: "Social_Network_Analysis"
-output: markdown_github
+output: md_document
 ---
 
 
